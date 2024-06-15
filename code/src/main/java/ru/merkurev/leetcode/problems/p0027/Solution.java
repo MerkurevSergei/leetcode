@@ -8,7 +8,7 @@ package ru.merkurev.leetcode.problems.p0027;
  * number of elements in nums which are not equal to val.
  * <p>
  * Consider the number of elements in nums which are not equal to val be k, to
- * get accepted, you need to do the following things::
+ * get accepted, you need to do the following things:
  * <p>
  * • Change the array nums such that the first k elements of nums contain the
  * elements which are not equal to val. The remaining elements of nums are not
