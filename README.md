@@ -6,4 +6,5 @@ Solutions problems from Leetcode
 0021 — Merge Two Sorted Lists  
 0026 — Remove Duplicates from Sorted Array
 0027 — Remove Element
+0028 — Find the Index of the First Occurrence in a String
 0080 — Remove Duplicates from Sorted Array II
