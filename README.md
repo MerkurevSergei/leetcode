@@ -9,4 +9,5 @@ Solutions problems from Leetcode
 0028 — Find the Index of the First Occurrence in a String  
 0070 — Climbing Stairs  
 0080 — Remove Duplicates from Sorted Array II  
+0169 — Majority Element  
 0383 — Ransom Note  
