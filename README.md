@@ -7,6 +7,7 @@ Solutions problems from Leetcode
 0026 — Remove Duplicates from Sorted Array  
 0027 — Remove Element  
 0028 — Find the Index of the First Occurrence in a String  
+0069 — Sqrt(x)  
 0070 — Climbing Stairs  
 0080 — Remove Duplicates from Sorted Array II  
 0169 — Majority Element  
